@@ -1,0 +1,21 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+}
+
+header {
+    display: inline-flex;
+    position: fixed;
+    background-color: grey;
+    width: 800px;
+}
+
+nav li {
+    display: inline-flex;
+    font-size: 20px;
+}
